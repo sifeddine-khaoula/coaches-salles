@@ -1,0 +1,2 @@
+some pages won't load because of cache to clear it type:"php artisan route:clear".
+ and to make sure what routes are functioning use:"php artisan route:list"
